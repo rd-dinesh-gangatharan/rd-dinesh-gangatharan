@@ -1,4 +1,4 @@
-### Hi there 👋
+### Intro 👋
 
 
 A software engineer focused on all things UI. Working on the new Rewe App.
